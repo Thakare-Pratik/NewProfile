@@ -5,7 +5,7 @@ body{
 #introduction{
     width: 100%;
     height: 400px;
-    background-image: url(images/BackGround.jpg);
+    background-image: url("https://i.ibb.co/V9j2LPY/Back-Ground.jpg");
     background-repeat: no-repeat;
     background-size: 100% 400px;  
     background-size: cover;  
@@ -42,7 +42,7 @@ body{
 #skills{ 
     width: 100%;
     height: 300px;  
-    background-image: url(images/BCG2.jpg);  
+    background-image: url("https://i.ibb.co/GpPh2cV/BCG2.jpg");  
     background-size: cover;
     background-repeat: no-repeat;
     background-size: 100% 300px;  
@@ -63,7 +63,7 @@ body{
     width:100%;
     height:300px;
     background-color:lightblue;
-    background-image: url(images/EduBgc.jpg);
+    background-image: url("https://i.ibb.co/kQVrz6G/EduBgc.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-size: 100% 300px;
@@ -81,7 +81,7 @@ body{
 #contact{
     width:100%;
     height:400px;
-    background-image: url(images/CusBgc.jpg); 
+    background-image: url("https://i.ibb.co/XDbZ4PT/CusBgc.jpg"); 
     background-size: 100% 400px; 
     background-repeat: no-repeat;
     background-size: cover; 
